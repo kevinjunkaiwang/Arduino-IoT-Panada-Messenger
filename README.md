@@ -13,7 +13,6 @@ A physical messenger device that can receive the message from the Arduino IoT cl
 - 0.96'' I2C OLED LCD Display 128x64 Pixel
 
 ## Schematic
-
 ![Schematic](./Pictures/Schematic.png)
 
 
