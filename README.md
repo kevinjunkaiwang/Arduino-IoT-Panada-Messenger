@@ -14,7 +14,7 @@ A physical messenger device that can receive the message from the Arduino IoT cl
 
 ## Schematic
 
-![Schematic](/Users/kevinjunkaiwang/Desktop/Overair-Message-Delivery-Device/Pictures/Schematic.png)
+![Schematic](./Pictures/Schematic.png)
 
 
 ## Assembly
