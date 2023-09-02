@@ -148,6 +148,17 @@
   },
   "active": "ff8b7000472dfecd",
   "lastOpenFiles": [
+    "Arduino Code/thingProperties.h",
+    "Arduino Code/sketch.json",
+    "Arduino Code/arduino_secrets.h",
+    "Arduino Code/ReadMe.adoc",
+    "Arduino Code/Messenger_aug24a.ino",
+    "Arduino Code",
+    "Messenger_aug24a/thingProperties.h",
+    "Messenger_aug24a/sketch.json",
+    "Messenger_aug24a/arduino_secrets.h",
+    "Messenger_aug24a/ReadMe.adoc",
+    "Messenger_aug24a/Messenger_aug24a.ino",
     "Pasted image 20230901170717.png.md",
     "Pictures/Assembly.png",
     "Assembly.png",
@@ -159,7 +170,6 @@
     "Pictures/Display Open image.png",
     "Pictures/Display Message.png",
     "Circuit.png",
-    "Display Message.png",
-    "Pictures"
+    "Display Message.png"
   ]
 }
